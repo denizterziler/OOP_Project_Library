@@ -1,0 +1,8 @@
+Harry Potter and the Philosopher's Stone & J.K.Rowling & 1997 & 223 & 978-0-7475-3269-9 & 15
+The Fellowship of the Ring & J.R.R.Tolkien & 1954 & 423 & 978-0345339706 & 10
+Don Quixote & Miguel de Cervantes & 1605 & 289 & 978-6056486173 & 7
+Harry Potter and the Chamber of Secrets & J.K.Rowling & 1998 & 251 & 0-7475-3849-2 & 20
+The Da Vinci Code & Dan Brown & 2003 & 689 & 0-385-50420-9 & 20
+The Alchemist & Paulo Coelho & 1993 & 163 & 0-06-250217-4 & 9
+The Spider & Peter Parker & 2023 & 100 & 0-06 & 5
+oop & name & 2023 & 150 & 1234-12345 & 10

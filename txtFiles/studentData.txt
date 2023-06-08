@@ -1,0 +1,7 @@
+Deniz,Eren,Student
+A,13,Student
+B,1345,Student
+C,123123,Student
+D,12341234,Student
+öğrenci,şifre,Student
+deniz,eren,Student
